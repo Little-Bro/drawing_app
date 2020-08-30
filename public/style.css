@@ -1,0 +1,26 @@
+h1 {
+  position: relative;
+  left: 325px;
+}
+
+p {
+  position: relative;
+  top: -12px;
+}
+
+textarea {
+  position: relative;
+  top: -12px;
+}
+
+#submit {
+  position: relative;
+  top: 220px;
+  left: 300px;
+}
+
+#erase {
+  position: relative;
+  top: 220px;
+  left: 10px;
+}
